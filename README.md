@@ -1,3 +1,0 @@
-- 👋 Olá, me chamo Cláudio Gabriel
-- 🌠 Tenho 15 anos
-- 🌱 Estou estudando Front-end
